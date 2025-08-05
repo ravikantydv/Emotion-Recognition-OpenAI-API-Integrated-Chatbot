@@ -36,7 +36,7 @@ The chatbot responds based on the **emotion detected**.
 |---------------|-------------------------|
 | Language       | Python 3.8+             |
 | NLP Model      | OpenAI GPT API (gpt-3.5 / gpt-4) |
-| Interface      | CLI / Streamlit / Flask (optional) |
+| Interface      | Flask Integrated |
 | Deployment     | Localhost or Web       |
 | Env Management | Python-dotenv          |
 
