@@ -4,8 +4,5 @@ Objective: Develop an AI application that demonstrates a clear and impactful use
 Technologies: You are free to choose any AI technologies or frameworks you prefer (e.g., TensorFlow, PyTorch, etc.). Your choice should align with the needs and objectives of your project.
 Functionality: The application must have a functional user interface (UI) or API to demonstrate its capabilities. It should be user-friendly and effectively showcase the AI component's role in solving the problem.
 Documentation: Include a README file with clear instructions on how to run your application.
-Format: Submit your code repository via [GitHub or Canvas] and ensure all files are properly organized and documented.
-Evaluation: Projects will be graded based on innovation, technical complexity, functionality, user experience, and documentation.
+Format: Submit your code repository via [GitHub]
 We encourage you to think creatively and explore diverse applications of AI. Whether it's enhancing healthcare, improving customer experiences, optimizing supply chains, or developing new entertainment technologies, the possibilities are endless!
-
-Feel free to form teams of up to 3 members or work individually. If you have any questions or need further clarification, please do not hesitate to reach out
