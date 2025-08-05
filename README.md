@@ -37,7 +37,7 @@ The chatbot responds based on the **emotion detected**.
 | Language       | Python 3.8+             |
 | NLP Model      | OpenAI GPT API (gpt-3.5 / gpt-4) |
 | Interface      | Flask Integrated |
-| Deployment     | Localhost or Web       |
+| Deployment     | Localhost       |
 | Env Management | Python-dotenv          |
 
 ---
@@ -72,7 +72,7 @@ Emotion detected: Positive
 📈 Future Scope
 🧠 Multiclass emotion detection (Anger, Joy, Sadness, etc.)
 
-🌍 Integration with WhatsApp/Telegram
+🌍 Integration with WhatsApp/Telegram/Twitter
 
 📱 Mobile app version
 
@@ -100,7 +100,3 @@ Ravikant Yadav
 🧑‍💻 LinkedIn: linkedin.com/in/yourprofile
 
 “A chatbot that listens, understands, and connects with your emotions and gives.” ❤️
----
-- Streamlit or Flask frontend to make it visual?
-
-Let me know — I can generate those instantly.
