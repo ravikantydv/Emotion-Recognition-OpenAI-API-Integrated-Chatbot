@@ -1,0 +1,7 @@
+config.json - https://drive.google.com/file/d/1I16sXELmYG33-hNJq3WOWPxiHbsmYhdA/view?usp=sharing
+
+generation_config.json - https://drive.google.com/file/d/1aNJqhj2yJZstDqFQVI80TAuNZAuHb_mC/view?usp=sharing
+
+model.safetensors - https://drive.google.com/file/d/1yrC1uuNRvoQC9LZJjfC96KHvTeCtZ2Nn/view?usp=sharing
+
+saved_model Folder: https://drive.google.com/drive/folders/1zz5eNI_oP9RFk5pK_kLPg1kQHOz9V_37?usp=sharing
